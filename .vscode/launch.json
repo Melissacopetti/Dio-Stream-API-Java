@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Desafio09",
+            "request": "launch",
+            "mainClass": "Desafio09",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Desafio01",
+            "request": "launch",
+            "mainClass": "Desafio01",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio02",
+            "request": "launch",
+            "mainClass": "Desafio02",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio03",
+            "request": "launch",
+            "mainClass": "Desafio03",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio04",
+            "request": "launch",
+            "mainClass": "Desafio04",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio05",
+            "request": "launch",
+            "mainClass": "Desafio05",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio06",
+            "request": "launch",
+            "mainClass": "Desafio06",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio07",
+            "request": "launch",
+            "mainClass": "Desafio07",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio08",
+            "request": "launch",
+            "mainClass": "Desafio08",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio10",
+            "request": "launch",
+            "mainClass": "Desafio10",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio11",
+            "request": "launch",
+            "mainClass": "Desafio11",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio12",
+            "request": "launch",
+            "mainClass": "Desafio12",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio13",
+            "request": "launch",
+            "mainClass": "Desafio13",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio14",
+            "request": "launch",
+            "mainClass": "Desafio14",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio15",
+            "request": "launch",
+            "mainClass": "Desafio15",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio16",
+            "request": "launch",
+            "mainClass": "Desafio16",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio17",
+            "request": "launch",
+            "mainClass": "Desafio17",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio18",
+            "request": "launch",
+            "mainClass": "Desafio18",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "Desafio19",
+            "request": "launch",
+            "mainClass": "Desafio19",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "BinaryOperatorExample",
+            "request": "launch",
+            "mainClass": "ExemplosStream.BinaryOperatorExample",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerExample",
+            "request": "launch",
+            "mainClass": "ExemplosStream.ConsumerExample",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "FunctionExample",
+            "request": "launch",
+            "mainClass": "ExemplosStream.FunctionExample",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "PredicateExample",
+            "request": "launch",
+            "mainClass": "ExemplosStream.PredicateExample",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        },
+        {
+            "type": "java",
+            "name": "SupplierExample",
+            "request": "launch",
+            "mainClass": "ExemplosStream.SupplierExample",
+            "projectName": "Dio-Stream-API-Java_8ad6fda7"
+        }
+    ]
+}
